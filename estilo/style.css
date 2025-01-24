@@ -53,6 +53,7 @@ header>p {
     color: white;
     max-width: 500px;
     margin: auto;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
 nav {
